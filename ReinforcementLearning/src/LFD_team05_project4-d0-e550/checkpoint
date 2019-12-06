@@ -1,0 +1,6 @@
+model_checkpoint_path: "model"
+all_model_checkpoint_paths: "../LFD_team05_project4-d0-e70/model"
+all_model_checkpoint_paths: "../LFD_team05_project4-d0-e93/model"
+all_model_checkpoint_paths: "../LFD_team05_project4-d0-e100/model"
+all_model_checkpoint_paths: "../LFD_team05_project4-d0-e143/model"
+all_model_checkpoint_paths: "model"
